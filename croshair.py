@@ -1,12 +1,3 @@
-# ================================================================
-# 🎯 Crosshair Open Source - by [Kerubimm_]
-#
-# Small Python program that displays a crosshair
-# centered on the screen. Useful for games or visual tests.
-#
-# ✅ Free to use and modify (MIT License)
-# 💡 Can be converted to an .exe file for easy use without Python
-# ====================================================================
 import tkinter as tk
 from tkinter.colorchooser import askcolor
 
